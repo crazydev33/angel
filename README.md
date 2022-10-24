@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>balik kana :(</title>
+    <title>balik kana</title>
 </head>
 <body style="background: url(3.gif);
-             background-size: 100%;
-             background-repeat: no-repeat;">
+             background-size: 100%;>
     <img src="1.gif" width="200" height="200">
     <h2>hi love</h2>
     <img src="1.gif" width="200" height="200">
